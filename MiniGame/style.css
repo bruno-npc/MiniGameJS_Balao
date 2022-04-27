@@ -1,0 +1,12 @@
+.balao{
+    margin-top: 50px;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(227, 54, 54);
+    border-radius: 30px;
+    position: absolute;
+}
+
+h3{
+    color: tomato;
+}
